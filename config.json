@@ -1,4 +1,5 @@
 {
     "notify": true,
-    "copy_mode": false
+    "copy_mode": false,
+    "clip_save": true
 }
