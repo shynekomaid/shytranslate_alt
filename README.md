@@ -26,3 +26,4 @@ I suggest binding to hotkeys like ```alt+t``` and ```shift+alt+t```
 
 * **notify** - send or on notifications with translated string.
 * **copy_mode** - if true, translate copied text, else selected or copied.
+* **clip_save** - save or not translated text to clipboard.
