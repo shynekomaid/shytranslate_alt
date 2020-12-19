@@ -6,3 +6,4 @@ config_file=$path/config.json;
 $copy_mode && clip=$(xclip -o -selection clipboard) || clip=$(xclip -o)
 tr=$(bash $path/trans -t ru -b "$clip")
 $notify && notify-send "Autotrans" "$tr"
+echo $tr | xclip -sel clip
