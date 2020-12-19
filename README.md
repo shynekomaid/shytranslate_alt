@@ -7,6 +7,7 @@ Based on [translate-shell](https://www.soimort.org/translate-shell/).
 # Requirements
 * xclip
 * notify-send
+* perl
 
 # Instalations
 ```
