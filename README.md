@@ -1,6 +1,6 @@
 # alt_translate
 
-Faster as water in the toilet bowl, internet dependent ru<->en translator, with settings and notifications, the functions of which can be binded to the hotkeys.
+Fast as water in the toilet bowl, internet dependent ru<->en translator, with settings and notifications, the functions of which can be binded to the hotkeys.
 
 Based on [translate-shell](https://www.soimort.org/translate-shell/).
 
