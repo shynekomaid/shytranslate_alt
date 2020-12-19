@@ -4,6 +4,11 @@ Faster as water in the toilet bowl, internet dependent ru<->en translator, with 
 
 Based on [translate-shell](https://www.soimort.org/translate-shell/).
 
+# Requirements
+
+> xclip
+> notify-send
+
 # Instalations
 ```
 git clone http://bitrek.video:11300/shyneko/alt_translate.git
