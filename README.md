@@ -5,9 +5,8 @@ Faster as water in the toilet bowl, internet dependent ru<->en translator, with 
 Based on [translate-shell](https://www.soimort.org/translate-shell/).
 
 # Requirements
-
-> xclip
-> notify-send
+* xclip
+* notify-send
 
 # Instalations
 ```
@@ -17,9 +16,13 @@ chmod +x *
 ```
 
 # Usages
-
 ```
 ./autotrans2ru.sh
 ./autotrans2en.sh
 ```
 I suggest binding to hotkeys like ```alt+t``` and ```shift+alt+t```
+
+# Settings description
+
+* **notify** - send or on notifications with translated string.
+* **copy_mode** - if true, translate copied text, else selected or copied.
