@@ -8,6 +8,7 @@ Based on [translate-shell](https://www.soimort.org/translate-shell/).
 * xclip
 * notify-send
 * perl
+* jq
 
 # Instalations
 ```
